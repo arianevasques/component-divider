@@ -1,0 +1,10 @@
+hr {
+    height: 1px;
+    width: 100%;
+    background: #FFFFFF;
+    
+    border: 1px solid #DEE7EF;
+    box-sizing: border-box;
+    position: static;
+    margin: 10px 0px;
+}
